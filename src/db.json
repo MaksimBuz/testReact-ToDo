@@ -1,0 +1,9 @@
+
+{  "lists": [
+    { "Data": "01/01/0001", "TaskCode": "Шифр задачи", "ProjectCode": "48/21 -", "Task": "Задача", "Status": true, "Responsible": "Иванов В.А.", "Reassign": "Свердлова А. И.", "Priority": 2, "comment": "Комментарий", "Plantime": "00:15:00", "Facttime": "00:00:14"," Start": "01/01/0001 00:00:00", "Finish": "01/24/2023 10:23:17" },
+    { "Data": "01/01/0001", "TaskCode": "Шифр задачи", "ProjectCode": "48/21 -", "Task": "Задача", "Status": false, "Responsible": "Иванов В.А.", "Reassign": "Свердлова А. И.", "Priority": 2, "comment": "Комментарий", "Plantime": "00:15:00", "Facttime": "00:00:14"," Start": "01/01/0001 00:00:00", "Finish": "01/24/2023 10:23:17"},
+    { "Data": "01/01/0001", "TaskCode": "Шифр задачи", "ProjectCode": "48/21 -", "Task": "Задача", "Status": true, "Responsible": "Иванов В.А.", "Reassign": "Свердлова А. И.", "Priority": 2, "comment": "Комментарий", "Plantime": "00:15:00", "Facttime": "00:00:14"," Start": "01/01/0001 00:00:00", "Finish": "01/24/2023 10:23:17"},
+    { "Data": "05/26/2023", "TaskCode": "Шифр задачи", "ProjectCode": "48/21 -", "Task": "Задача", "Status": false, "Responsible": "Иванов В.А.", "Reassign": "Свердлова А. И.", "Priority": 2, "comment": "Комментарий", "Plantime": "00:15:00", "Facttime": "00:00:14"," Start": "01/01/0001 00:00:00", "Finish": "01/24/2023 10:23:17"},
+    { "Data": "05/27/2023", "TaskCode": "Шифр задачи", "ProjectCode": "48/21 -", "Task": "Задача", "Status": false, "Responsible": "Иванов В.А.", "Reassign": "Свердлова А. И.", "Priority": 2, "comment": "Комментарий", "Plantime": "00:15:00", "Facttime": "00:00:14"," Start": "01/01/0001 00:00:00", "Finish": "01/24/2023 10:23:17" }
+]  
+}

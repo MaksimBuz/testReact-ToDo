@@ -1,0 +1,135 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+// Общие стили
+.App {
+  width: 1540px;
+ margin: 0 auto;
+
+}
+
+li {
+  list-style: none;
+ 
+
+}
+
+p {
+  font-family: 'Mulish';
+  font-style: normal;
+  font-weight: 700;
+
+}
+
+// Шапка
+.Header {
+  width: 1540px;
+  height: 80px;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+
+}
+
+.Header__logo {
+  display: flex;
+  align-items: center;
+  p {
+    font-size: 24px;
+    margin-left: 9px;
+
+  }
+
+}
+
+.Header__user {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-right: 110px;
+  svg {
+    margin-left: 17px;
+
+  }
+  p {
+    font-size: 16px;
+    margin-left: 9px;
+
+  }
+  .job_title {
+    color: #9A9AB0;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 120%;
+
+  }
+}
+
+// Сами задачи
+.task_list {
+  display: flex;
+  justify-content: space-around;
+  width: 1388px;
+  height: 66px;
+  background: #F7F7FC;
+  li {
+    padding: 20px;
+  }
+}
+
+select {
+  width: 111px;
+  height: 36px;
+  border: 0.5px solid #000000;
+  border-radius: 8px;
+  display: flex;
+  align-items: flex-start;
+  text-align: center;
+}
+
+.task_list-items {
+  display: flex;
+  justify-content: space-around;
+  width: 1388px;
+  height: 66px;
+  li {
+    padding: 20px;
+
+  }
+
+}
+
+button.dropdown-toggle.btn-primary {
+  background: #E1E1FB;
+  color: black;
+  width: 1388px;
+  height: 66px;
+  text-align: start;
+}
+option {
+  font-size: 14px;
+}
+.completed {
+  background-color:#CEFDED;
+}
+
+.Pause {
+  background-color:#FFCCDD;
+}
+
+.dropdown {
+  width: 1388px;
+
+}
